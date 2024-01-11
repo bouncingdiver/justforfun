@@ -1,5 +1,5 @@
 def ask_fruit():
-    number_of_fruit = input("How many pieces of fruit have you eaten today this week? \n")
+    number_of_fruit = input("How many pieces of fruit have you eaten today this today? \n")
 
     print("You  have eaten " + number_of_fruit + " pieces of fruit today. Well done.")
 
