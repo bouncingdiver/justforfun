@@ -1,0 +1,1 @@
+print("Remember, your weekly goal is to achieve eating 3 pieces of fruit and 3 excercise sessions that are an hour long.")
