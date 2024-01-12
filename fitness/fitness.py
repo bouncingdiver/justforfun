@@ -53,3 +53,7 @@ if (amount_of_excercise >= 4.5 and amount_of_excercise < 6):
     excercise_weight = 5
     excercise_phrase = (amount_of_excercise + " hours of excercise is amazing, consider taking a rest day")
 
+overall_weight = fruit_weight - excercise_weight
+
+if (fruit_weight == 0 and excercise_weight >= 2):
+    print(fruit_phrase + ", however " + excercise_weight + ".")
