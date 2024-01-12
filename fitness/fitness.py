@@ -1,10 +1,10 @@
 def ask_fruit():
-    number_of_fruit = input("How many pieces of fruit have you eaten today this today? \n")
+    number_of_fruit = input("How many pieces of fruit have you eaten today today? \n")
 
     print("You  have eaten " + number_of_fruit + " pieces of fruit today. Well done.")
 
 def ask_excercise():
-    amount_of_excercise = input("How many hours of excercise have you done today?")
+    amount_of_excercise = input("How many hours of excercise have you done today? \n")
 
     print("You have done " + amount_of_excercise + " hours of excercise today. Nice.")
 
