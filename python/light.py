@@ -7,3 +7,7 @@ greenLedPin = 13
 redLed = machine.Pin(redLedPin, machine.Pin.OUT)
 yellowLed = machine.Pin(yellowLedPin, machine.Pin.OUT)
 greenLed = machine.Pin(greenLedPin, machine.Pin.OUT)
+
+redLed.low()
+yellowLed.low()
+greenLed.low()
